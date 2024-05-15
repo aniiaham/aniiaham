@@ -1,6 +1,6 @@
-##Hi there!👋 I'm Aniia Hamilton
+## Hi there!👋 I'm Aniia Hamilton
 
-##🌱About Me
+## 🌱About Me
 I'm a front-end developer based in Nashville, TN. 
 
 ## Skills
